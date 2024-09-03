@@ -7,8 +7,6 @@
 # a) Usar o json ou xml disponível como fonte dos dados do faturamento mensal;
 # b) Podem existir dias sem faturamento, como nos finais de semana e feriados. Estes dias devem ser ignorados no cálculo da média;
 
-# OBS: Como não havia JSON disponível, pedi ao chatGPT que criasse um de exemplo. O programa deve funcionar caso, o json possua a mesma estrutura do exemplo.
-
 import json
 
 
